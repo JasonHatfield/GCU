@@ -1,0 +1,14 @@
+Provide a brief (3- to 4-sentence) description of how both the 
+equals() and toString() methods, if overridden, could be used in 
+your Milestone project.
+
+As my milestone project grows and becomes more complex, I can see the value in 
+using the quals() and toString() methods.
+
+The toString() method will override the default output and input another line of code.
+
+Similarly, the equals() boolean method will give my milestone project the ability to 
+use if statements once my end user selects various different products.
+
+Ultimately, I think I will implement these methods into my program to help with adding
+products to the user's cart.

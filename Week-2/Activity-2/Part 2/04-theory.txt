@@ -1,0 +1,5 @@
+Each child class, Gun and Bomb, have a public method that matches the method in the parent class Weapon.
+
+When a child class has the same method signature as the parent class, the contents of this method override that of the parent class.
+
+In this instance, both of the children classes have overridden the Weapon parent class by invoking a different output to the console.

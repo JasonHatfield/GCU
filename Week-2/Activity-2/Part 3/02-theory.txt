@@ -1,0 +1,5 @@
+Although person1 and person2 have the same name, these are not identical because the objects are located at different addresses.
+
+Each person is created as a new object which is stored in the Person class, so when they are related in the if statement, the return is not true.
+
+In order to access the same person, we would need to invoke an if statement that compared person1 to person1.

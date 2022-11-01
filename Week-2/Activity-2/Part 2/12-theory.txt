@@ -1,0 +1,5 @@
+The activate(boolean enable) method must be abstract, therefore the class must also be abstract.
+
+The error occured because we removed the abstract and replaced this with the final keyword.
+
+I experimented and found that Java does not allow a final abstract class, and only one or the other can be present.

@@ -1,0 +1,7 @@
+When the program is started, the Game driver class creates a Superman and Batman object. 
+
+Each object randomly generates a health integer from 1 - 1000, which is passed into the attack method of the SuperHero parent class. 
+
+This class has two children classes, Batman and Superman. 
+
+Each of those classes takes the health from the parent class and passes that health individually back to output onto the game console.

@@ -1,0 +1,7 @@
+Provide a brief (3 to 4-sentences) description of how and why the output was displayed.
+
+The boolean method in the Person class contains multiple if statements, that if false, will change this.firstName to person.firstName.
+
+If the boolean value is this, null, or does not equal other.getClass() the output will be the println.
+
+For this scenario, all three if statements were not true, so a new person object was created, and the name was returned.

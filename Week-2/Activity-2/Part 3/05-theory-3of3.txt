@@ -1,0 +1,12 @@
+Provide a brief (3- to 4-sentence) description of what the @Override annotation 
+is used for and why it is good practice to add this to overridden methods.
+
+There are two reasons for the @Override annotation, but most importantly this
+annotation is a best practice for programmers.
+
+The first reason for using this annotation is to ensure the method following the
+statement is actually overriding the super class. If the method is not completing
+this action, a compile time erroor will be presented to the programmer.
+
+Secondly, the annotation imroves readability in the code which gives either the
+original or programmers, a better idea of the original intentions for the code.
