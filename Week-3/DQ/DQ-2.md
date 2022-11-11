@@ -19,7 +19,7 @@ By instantiating the variable and declaring the variable as final, the data can 
 #### Example
 ``` Java
 public class Conversion {
-	// the final keyword will restrict the program from chaning the variable
+	// the final keyword will restrict the program from changing the variable
   final static double CONVERSION = 2.2046226218;
 	
 	public static void main(String[] args) {
