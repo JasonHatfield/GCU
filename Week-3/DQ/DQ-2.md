@@ -1,4 +1,4 @@
-## Topic 3 - Discussion Question 1
+## Topic 3 - Discussion Question 2
 
 What does the keyword final do on a class member variable?<br>
 What does the keyword final do on a class method?<br>
