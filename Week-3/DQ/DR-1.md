@@ -5,29 +5,19 @@ For my simple code snippet, I decided to concentrate on the interface concept we
 #### AnimalInterface.java
 ``` Java
 /**
+ * Interface
  * @author Jason Hatfield
  * This is my original work.
  */
-public class Main {
-
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Animal animal = new Animal() {
-		};
-		
-		animal.name();
-		animal.eat();
-	}
+public interface AnimalInterface {
+	public void name();
+	public void eat();
 }
 ```
 #### Animal.java
 ``` Java
 /**
- * @author Jason Hatfield
- * This is my original work.
+ * Animal class implements the name() and eat() methods from the AnimalInterface class
  */
 public abstract class Animal implements AnimalInterface {
 	public void name() {
@@ -42,8 +32,7 @@ public abstract class Animal implements AnimalInterface {
 #### Main.java
 ``` java
 /**
- * @author Jason Hatfield
- * This is my original work.
+ * Main driver class.
  */
 public class Main {
 
