@@ -1,4 +1,5 @@
 ## Activity 3
+- [Cover Sheet](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/Cover%20Sheet.pdf)
 ### Part 1
 ---
 #### Screenshots
