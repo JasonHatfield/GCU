@@ -32,14 +32,46 @@ for(int i = 0; i < persons.length; i++) {
 
 ---
 ### Part 2
+
 ---
 #### UML Diagram
 ![UML Diagram](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/UML%20Class%20Diagram.png)
+
 ---
 #### Theory
+The ShapeBase superclass establishes the parameters for each subclass.
+
+Through inheritance, each subclass inherites the `calculateArea()` method from the ShapeBase.java class, which overrides the ShapeInterface.java class.
+``` Java
+@Override
+public int calculateArea() {
+  return -1;
+}
+```
+An example of further polymorphism in the Circle.java class is the same method mentioned above. 
+
+This class further overrides the calculateArea() method and replaces the return value of -1 with the formula to find the area of a circle.
+``` Java
+@Override
+public int calculateArea() {
+  return (int) ((Math.PI * radius) * radius);
+}
+```
 
 ---
 #### Screenshots
 ![Screenshot 3](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/03-Screenshot.png)<br>
 ![Screenshot 4](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/04-Screenshot.png)<br>
+
 ---
+#### Code
+Test Package
+- [Test.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-2/src/test/Test.java)
+
+Base Package
+- [ShapeInterface.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-2/src/base/ShapeInterface.java)
+- [ShapeBase.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-2/src/base/ShapeBase.java)
+- [Rectangle.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-2/src/base/Rectangle.java)
+- [Triangle.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-2/src/base/Triangle.java)
+- [Circle.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-2/src/base/Circle.java)
+- [Hexagon.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-2/src/base/Hexagon.java)
