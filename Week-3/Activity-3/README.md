@@ -34,4 +34,10 @@ for(int i = 0; i < persons.length; i++) {
 ### Part 2
 ---
 #### Screenshots
+![Screenshot 3](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/03-Screenshot.png)<br>
+![Screenshot 4](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/04-Screenshot.png)<br>
+---
+#### Theory
 
+---
+#### Code
