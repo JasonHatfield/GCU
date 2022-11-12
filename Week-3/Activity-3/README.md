@@ -33,12 +33,13 @@ for(int i = 0; i < persons.length; i++) {
 ---
 ### Part 2
 ---
+#### UML Diagram
+![UML Diagram](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/UML%20Class%20Diagram.png)
+---
+#### Theory
+
+---
 #### Screenshots
 ![Screenshot 3](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/03-Screenshot.png)<br>
 ![Screenshot 4](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/04-Screenshot.png)<br>
----
-#### UML Diagram
-![UML Diagram](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/UML%20Class%20Diagram.png)
-#### Theory
-
 ---
