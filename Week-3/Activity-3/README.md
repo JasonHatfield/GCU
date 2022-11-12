@@ -26,7 +26,7 @@ for(int i = 0; i < persons.length; i++) {
   System.out.println(persons[i]);
 ```
 ---
-#### *Code*
+#### Code
 - [Person.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-1/src/app/Person.java)<br>
 - [PersonInterface.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-1/src/app/PersonInterface.java)<br>
 - [Test.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-1/src/app/Test.java)<br>
