@@ -1,10 +1,12 @@
 ## Activity 3
-### Screenshots
+### Part 1
+---
+#### Screenshots
 ![Screenshot 1](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/01-Screenshot.png)<br>
 ![Screenshot 2](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/02-Screenshot.png)<br>
 
 ---
-### Theory
+#### Theory
 After the `Person[]` object is created and instantiated with 4 persons, each person is assigned a position in the array.
 ``` Java
 Person[] persons = new Person[4];
@@ -23,7 +25,13 @@ for(int i = 0; i < persons.length; i++) {
   System.out.println(persons[i]);
 ```
 ---
-### Code
+#### *Code*
 - [Person.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-1/src/app/Person.java)<br>
 - [PersonInterface.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-1/src/app/PersonInterface.java)<br>
 - [Test.java](https://github.com/JasonHatfield/GCU/blob/CST-239/Week-3/Activity-3/topic3-1/src/app/Test.java)<br>
+
+---
+### Part 2
+---
+#### Screenshots
+
