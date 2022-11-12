@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"app","c":"PersonInterface","l":"isRunning()"},{"p":"app","c":"PersonInterface","l":"run()"},{"p":"app","c":"PersonInterface","l":"walk()"}];updateSearchResults();
