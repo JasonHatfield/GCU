@@ -1,4 +1,4 @@
-### Week 4: Discussion Question 2
+## Week 4: Discussion Question 2
 
 What do pass by reference and pass by value mean in the Java programming language? Does Java pass by reference or pass by value? Provide code examples to show both cases. Summarize your answers and explanation for how your code examples work in 300 words.
 
