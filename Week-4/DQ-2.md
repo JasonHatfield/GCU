@@ -48,12 +48,12 @@ public class PassByValue {
 		// create a new object at a different memory address
 		value = new Value();
 		value.setValue(5);
+		
 		/*
 		 * although a new value object is created, the original value is not 
 		 * altered because the new value object has a separate address in 
 		 * memory from the original object
 		 */
-		
 		System.out.println("\nNew value object in the increseValue method: " 
 				+ value.getValue());
 	}
