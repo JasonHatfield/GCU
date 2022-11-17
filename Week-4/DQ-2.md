@@ -45,7 +45,7 @@ public class PassByValue {
 		 */
 		value.setValue(value.getValue() + 1);
 		
-		// create a new object at a different address.
+		// create a new object at a different memory address
 		value = new Value();
 		value.setValue(5);
 		/*
