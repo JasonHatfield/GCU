@@ -1,5 +1,0 @@
-The overload method provides an alternative output based on the input in the driver class.
-
-By adding a new method in the child class that takes a different, or in this case no, parameter the program changes based on the input.
-
-In this case, when an integer is passed through the parameter we get one outcome, and when no parameter is passed, we get another.

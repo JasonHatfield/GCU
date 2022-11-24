@@ -1,7 +1,0 @@
-The game driver creates two objects, a bomb and a gun with a fire power of 10 and 5 respectively.
-
-Although there are no methods in the Gun and Bomb children classes, the output is from the Weapon parent class.
-
-This occurs because the children class inherit the println function from the Weapon parent class.
-
-The extends keyword in the class signature creates this inheritance bond.

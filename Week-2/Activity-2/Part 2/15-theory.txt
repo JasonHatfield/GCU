@@ -1,7 +1,0 @@
-As the compiler went through lines 21 of the Gun and Bomb classes, we receive an unresolved compilation error.
-
-The error states that abstract methods do not specify a body.
-
-This error means that a declaration only needs to be present, but not a body.
-
-Because there is a body present when the abstract method compiles, the error is thrown.

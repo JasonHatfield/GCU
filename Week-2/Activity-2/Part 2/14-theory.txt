@@ -1,3 +1,0 @@
-When changing the method signature of fireWeapon to final, we receive errors in both the Gun and Bom sub classes.
-
-This error is a result of the restriction placed on the fireWeapon method in the superclass that cannot be overridden by the subclasses.
