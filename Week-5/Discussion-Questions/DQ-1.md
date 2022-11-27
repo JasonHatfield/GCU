@@ -31,7 +31,7 @@ public class LinkedvsArrayLists {
 		linkedList.add("sophistication.");
 		linkedList.addFirst("Simplicity"); // last input in linkedList, but will display first
 		
-		System.out.print("ArrayList: " + arrayList.toString() + "\n");
+		System.out.print("ArrayList: " + arrayList + "\n");
 		System.out.print("ArrayList: " + linkedList);
 	}
 }
