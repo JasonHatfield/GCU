@@ -1,4 +1,4 @@
-# Week 6: Discussion Response 4
+# Week 6: Create a Program/Code Snippet
 - Create a basic Program/Code snippet using concepts from this week. 
 - Please state concept, chapter and section and what one can do with the code snippet.
 
