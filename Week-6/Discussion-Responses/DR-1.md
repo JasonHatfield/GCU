@@ -1,7 +1,7 @@
 # Week 6: Learning Goals
 Skim over this week's reading. Look at the table of contents and/or index. What is a topic that you see that interest you the most? (150+ words minimum, use a refence or quote, APA reference)
 ### Response
-Multithreading is the topic that I want to learn more about this week. Until now, we have learned how to run code line by line, and simultaneously running multiple threads can be very useful in a program. By implementing the Thread class in Java, the program can create multiple instances of the same object and then run those instances simultaneously. For example, if we were to create a class named MultiThread with instances in the main class method names thread1 and thread 2, we could call the thread simultaneously for each method.
+Multithreading is the topic that I want to learn more about this week. Until now, we have learned how to run code line by line, and simultaneously running multiple threads can be very useful in a program. By implementing the Thread class in Java, the program can create multiple instances of the same object and then run those instances simultaneously. For example, if we were to create a class named MultiThread with instances in the main class method names thread1 and thread 2, we could call the thread simultaneously for each method. (Coding with John, 2021).
 
 In the following example, the program iterates over four threads and prints the results to the console five times. 
 
@@ -66,3 +66,5 @@ The threads are all running simulataneously, so there is no continuity for the o
 5 from thread 3
 5 from thread 0
 ```
+### Reference
+Coding with John. (2021, June 28). Multithreading in Java Explained in 10 Minutes. YouTube. https://www.youtube.com/watch?v=r_MbozD32eo
