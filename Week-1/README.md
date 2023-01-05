@@ -1,3 +1,5 @@
+### CST-239: Week 1
+---
 Relational databases still constitute the largest portion of the database types deployed today. 
 
 Software development graduates are expected to show familiarity with the theoretical concepts behind designing databases and the correct use of queries. 
